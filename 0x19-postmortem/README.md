@@ -1,4 +1,3 @@
-!(./images?q=tbn:ANd9GcSrgihtp87TIds4ByEk_1sBVxFsk8wM8sU4qQ)
 Summary
 The main e-commerce website experienced a significant slowdown, with page load times increasing from 2 seconds to over 15 seconds.
 
